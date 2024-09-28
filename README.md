@@ -77,7 +77,6 @@ Open a pull request.
 
 Acknowledgements
 Inspired by the need for an easy-to-use PDF extraction tool.
-Thanks to all contributors and the open-source community.
 
 
 ### Instructions
